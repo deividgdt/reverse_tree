@@ -1,6 +1,8 @@
 # Reverse / Search Tree Script
 >A script to reverse a tree (command) output to absolute paths
 
+![](images/example.png)
+
 This Python script searches for paths in a file tree structure and prints the paths that contain a specified search term. It removes any color codes from the tree output and handles the depth of the tree structure to build the correct paths.
 
 ## Usage
