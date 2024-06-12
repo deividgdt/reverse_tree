@@ -56,5 +56,8 @@ Parses command-line arguments using the `argparse` module.
 ### `main()`
 
 The main function that orchestrates the script execution.
+
 # To-do
 - A bug has been detected when working with a file with five milllion lines. Waiting fix.
+- Create directories structure from the input file
+- Show all the paths without providing a search_term
