@@ -1,4 +1,7 @@
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U01LTQB)
+
 # Reverse / Search Tree Script
+
 >A script to reverse a tree (command) output to absolute paths
 
 ![](images/example.png)
